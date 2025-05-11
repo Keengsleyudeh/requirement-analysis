@@ -33,8 +33,6 @@ Below is the use case diagram for the ALX Booking Management System. It highligh
 - Manage Room Inventory (Admin)  
 - View Reports and Analytics (Admin)
 
----
-
 ## ✅ Acceptance Criteria
 
 ### Importance of Acceptance Criteria in Requirement Analysis
